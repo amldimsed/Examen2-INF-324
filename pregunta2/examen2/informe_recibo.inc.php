@@ -1,0 +1,1 @@
+Informe recivo de inscripcion_boleta de pago

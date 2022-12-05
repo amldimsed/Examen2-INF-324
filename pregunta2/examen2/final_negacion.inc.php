@@ -1,0 +1,1 @@
+Faltan Datos, Negacion de inscripcion

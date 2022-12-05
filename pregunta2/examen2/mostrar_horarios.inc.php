@@ -1,0 +1,1 @@
+Mostrar horario despues de la inscripcion
