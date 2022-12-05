@@ -1,0 +1,10 @@
+D:\programacion multimedia inf-324\examen2\pregunta3\ImagenPix\ImagenPix\bin\Debug\ImagenPix.exe.config
+D:\programacion multimedia inf-324\examen2\pregunta3\ImagenPix\ImagenPix\bin\Debug\ImagenPix.exe
+D:\programacion multimedia inf-324\examen2\pregunta3\ImagenPix\ImagenPix\bin\Debug\ImagenPix.pdb
+D:\programacion multimedia inf-324\examen2\pregunta3\ImagenPix\ImagenPix\obj\Debug\ImagenPix.csproj.AssemblyReference.cache
+D:\programacion multimedia inf-324\examen2\pregunta3\ImagenPix\ImagenPix\obj\Debug\ImagenPix.Form1.resources
+D:\programacion multimedia inf-324\examen2\pregunta3\ImagenPix\ImagenPix\obj\Debug\ImagenPix.Properties.Resources.resources
+D:\programacion multimedia inf-324\examen2\pregunta3\ImagenPix\ImagenPix\obj\Debug\ImagenPix.csproj.GenerateResource.cache
+D:\programacion multimedia inf-324\examen2\pregunta3\ImagenPix\ImagenPix\obj\Debug\ImagenPix.csproj.CoreCompileInputs.cache
+D:\programacion multimedia inf-324\examen2\pregunta3\ImagenPix\ImagenPix\obj\Debug\ImagenPix.exe
+D:\programacion multimedia inf-324\examen2\pregunta3\ImagenPix\ImagenPix\obj\Debug\ImagenPix.pdb
